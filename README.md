@@ -1,2 +1,2 @@
 # webd
-This wed dev demo
+This is web dev demo
