@@ -1,34 +1,7 @@
 *{
-    padding:0px ;
-    margin: 0px;
-    box-sizing: border-box;     /*For unchanged extra width */
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Arial;
 
-}
-.nav-bar{
-    display: flex;
-    height: 50px;
-    width: 100%;
-    background-color:black;
-    color: rgb(255, 255, 255);
-    padding-right: 2%;
-    padding-left: 2%;
-    justify-content: space-between;
-    text-align: center;
-    align-items: center;
-    position: fixed;
-}
-.task-bar{
-    display: flex;
-    flex-direction: column;
-    background-color: black;
-    color: white;
-    height: 100%;
-    width: 20px;
-    bottom: 0px;
-    top: 50px;
-}
-body{
-    padding-bottom: 1000px;
-    background-image: url(/practice/images/itachi.png);
-    
 }
